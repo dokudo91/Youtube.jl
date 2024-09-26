@@ -1,0 +1,7 @@
+/.vscode
+.DS_Store
+client_secret*.json
+token*.json
+*.csv
+/scripts
+*.txt

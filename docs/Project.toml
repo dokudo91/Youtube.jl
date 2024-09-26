@@ -1,0 +1,5 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GoogleAuth = "cab7b407-68f3-4b88-9377-6182b363bf1e"
+PyCallUtils = "e1325381-314c-4124-8440-3da57ebb5f45"
+Youtube = "e0ccd50b-d675-4d38-bdc1-d1c885bdd43b"
